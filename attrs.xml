@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+       <declare-styleable name="HBRoundedCornerImageView">
+        <attr name="hb_border_width" format="dimension" />
+        <attr name="hb_border_color" format="color" />
+        <attr name="hb_border_overlay" format="boolean" />
+        <attr name="hb_rounded_corner" format="dimension" />
+        <attr name="hb_circle_mode" format="boolean" />
+        <attr name="hb_background_color" format="color" />
+    </declare-styleable>
+</resources>
